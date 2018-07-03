@@ -90,10 +90,10 @@ cc.Class({
             }
             var journey = this.speed * dt * 20;//路程
             if(this.state == 2){
-                this.car.x -= journey;
+                this.car.x -= journey*0.3;
             }
             if(this.state == 3){
-                this.car.x += journey;
+                this.car.x += journey*0.3;
             }
             this.road1.y -= journey;
             this.road3.y -= journey;
@@ -143,7 +143,7 @@ cc.Class({
     },
     //向左
     Left(){
-        if(this.state == 1){
+        if(this.state == 1 && this.speed > 0){
             this.state = 2;
             this.left.getComponent(cc.Sprite).spriteFrame = this.sf_left_hv;
             this.car.rotation = -45;
@@ -151,7 +151,7 @@ cc.Class({
     },
     //右
     Right(){
-        if(this.state == 1){
+        if(this.state == 1 && this.speed > 0){
             this.state = 3;
             this.right.getComponent(cc.Sprite).spriteFrame = this.sf_right_hv;
             this.car.rotation = 45;
