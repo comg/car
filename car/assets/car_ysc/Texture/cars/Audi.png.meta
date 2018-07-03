@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5aed38d3-6dba-422e-9b77-ca16e0726e21",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Audi": {
+      "ver": "1.0.3",
+      "uuid": "da4a7777-35e8-4a5c-ae1a-3b52efd9e8d7",
+      "rawTextureUuid": "5aed38d3-6dba-422e-9b77-ca16e0726e21",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -4,
+      "trimX": 77,
+      "trimY": 25,
+      "width": 98,
+      "height": 214,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

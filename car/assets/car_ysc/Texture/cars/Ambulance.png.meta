@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fb05b65b-247c-4e6e-89fb-3d9b9be078ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Ambulance": {
+      "ver": "1.0.3",
+      "uuid": "3611a352-e235-4a1b-b815-524c4827b49f",
+      "rawTextureUuid": "fb05b65b-247c-4e6e-89fb-3d9b9be078ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -6.5,
+      "trimX": 73,
+      "trimY": 31,
+      "width": 102,
+      "height": 207,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

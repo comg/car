@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4190cbae-a66a-4590-8736-b2661ec608f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Mini_truck": {
+      "ver": "1.0.3",
+      "uuid": "618209da-7216-4eba-a51d-802acf968bc2",
+      "rawTextureUuid": "4190cbae-a66a-4590-8736-b2661ec608f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9.5,
+      "offsetY": -2,
+      "trimX": 63,
+      "trimY": 5,
+      "width": 111,
+      "height": 250,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
